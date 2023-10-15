@@ -1,5 +1,7 @@
 # Guessing_Game-Java_Console_Based
 
+Java fundamentals, Loops, Classes and Objects.
+
 The umpire will begin the game by asking the guesser to guess the number. 
 The umpire then asks the players to predict the number. 
 Whatever number the guesser chooses, the umpire will compare the numbers 
